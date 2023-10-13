@@ -3,3 +3,4 @@
 
 
 int checkMatrix(char* matrix);
+int** convertToMatrix(char* input, int* numRows, int* numCols);
